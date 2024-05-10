@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smile-givers/static/css/main.47dc396e.css",
+    "main.js": "/smile-givers/static/js/main.45d68cf4.js",
+    "static/js/111.7c7ca46f.chunk.js": "/smile-givers/static/js/111.7c7ca46f.chunk.js",
+    "index.html": "/smile-givers/index.html",
+    "main.47dc396e.css.map": "/smile-givers/static/css/main.47dc396e.css.map",
+    "main.45d68cf4.js.map": "/smile-givers/static/js/main.45d68cf4.js.map",
+    "111.7c7ca46f.chunk.js.map": "/smile-givers/static/js/111.7c7ca46f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47dc396e.css",
+    "static/js/main.45d68cf4.js"
+  ]
+}
