@@ -1,6 +1,6 @@
 SmileGivers: Web application designed to help charity foundations accept and manage donations
 
-Project Contributor: Sutisan Nilrattanakul
+Project Contributor: Sutisan Nilrattanakul <br />
 Remark: This project was implemented for educational purpose as a part of Website Application Development course at VMS ABAC.
 
 ---
